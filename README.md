@@ -1,4 +1,64 @@
-ARKref
+DAVID MUMO
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blog Post</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Html Code Examples</a></li>
+				<li><a href="#">Blog Posts</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<h1>Blog Post Title</h1>
+		<p>Create HTML code easily for your projects and websites. Easy Drag-n-Drop. Mobile-friendly. Clean HTML. 15,000+ HTML code examples.</p>
+		<section>
+			<h2>HTML Template Categories</h2>
+			<p>Choose from a variety of HTML template categories to find the perfect template for your blog.</p>
+		</section>
+		<section>
+			<h2>Html Block Styles</h2>
+			<p>Customize your blog with different HTML block styles to make it visually appealing.</p>
+		</section>
+		<section>
+			<h2>Blog Posts Website Templates</h2>
+			<p>Design a blog website template with our easy-to-use drag-and-drop editor. Choose from a variety of templates and customize to fit your style.</p>
+		</section>
+		<article>
+			<h2>Blog Post Title</h2>
+			<p>Make sure your blog title is not only interesting but also accurately describes the article’s topic.</p>
+			<p>In my experience, I usually come up with at least five different title options when I’m drafting a new blog post.</p>
+			<p>And here’s good news for those who are particularly verbose: Research shows that longer is better when it comes to length.</p>
+			<p>A study by Backlinko found that blog headlines [between 14 and 17 words](https://backlinko.com/more-blog-traffic#3-use-long-blog-post-headlines) generated the highest number of social shares.</p>
+			<p>Quick tip: If you lack inspiration, use a [blog ideas generator](https://www.hubspot.com/blog-topic-generator?hubs_post-cta=EN-blog-pm) to get your creative juices flowing.</p>
+			<img src="image.jpg" alt="Image description">
+			<h3>Make it visual.</h3>
+			<p>If you’ve written a long blog post, break up large chunks of text with images, infographics, videos, and charts.</p>
+			<p>Not only does this keep readers visually engaged, but interactive blog formats drive time on page.</p>
+			<p>According to [benchmark data from Databox](https://databox.com/improve-average-time-on-page), the average time on page for a B2B blog post is one minute and 30 seconds. The average time on page for a B2C blog post is one minute and 26 seconds.</p>
+			<img src="image.jpg" alt="Image description">
+			<h3>Use relevant CTAs.</h3>
+			<p>Lendio, a small business loan marketplace, has an active blog with topics that cover everything small business owners need to know about business loans, finance, and running a business.</p>
+			<p>In the blog post example below, Lendio integrated its business loan calculator into a post about getting a business loan.</p>
+			<img src="image.jpg" alt="Image description">
+			<h3>Keep it clean and simple.</h3>
+			<p>Pluralsight is a great reminder that you don’t have to get super fancy with your blog format.</p>
+			<p>The clean fonts, for example, match the logo and stay in line with the brand’s clear, informative voice. The grid structure and headers for each section make it easy to understand what is on the blog.</p>
+		</article>
+	</main>
+	<footer>
+		<p>&copy; 2024 Blog Post</p>
+	</footer>
+</body>
+</html>
 ======
 * Website: http://www.ark.cs.cmu.edu/ARKref/
 * Mike Heilman (http://www.cs.cmu.edu/~mheilman/)
